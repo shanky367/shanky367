@@ -22,12 +22,33 @@
 
 ✨ Mobile Application Developer with **6+ years** of experience in building scalable apps.
 
-- 🔥 Expert in **Android (Kotlin + Jetpack Compose)**  
-- 📱 Strong hands-on experience in **Flutter & Dart**  
-- ☁️ Firebase Auth, Firestore, Push Notifications  
-- 📊 Analytics Tracking + Flipper Debugging  
-- 🏢 Worked on POS & SDK Integration Projects  
-- 📍 Bengaluru, India  
+🔥 Expert in Android (Kotlin + Jetpack Compose)
+
+🍏 Hands-on experience with iOS Development
+
+📱 Strong hands-on experience in Flutter & Dart
+
+☁️ Firebase Auth, Firestore, Push Notifications
+
+📊 Analytics Tracking + Flipper Debugging
+
+📌 Expertise in CleverTap, MoEngage (User Engagement & Retention)
+
+🚀 Experience with AppsFlyer (Attribution & Marketing Analytics)
+
+🔐 Cloudflare Authentication for secure access control
+
+🛡️ Device Profiling & Security Monitoring for fraud prevention
+
+💻 Built Flutter POS Applications running on Linux-based POS Machines / Servers
+
+⚖️ Integrated Bluetooth & USB Weight Machines for real-time product measurement
+
+🖨️ Printer Integration for Bill / Invoice Generation in POS systems
+
+🏢 Worked on POS & SDK Integration Projects  
+
+📍 Bengaluru, India  
 
 ---
 
@@ -38,6 +59,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -46,6 +68,9 @@
 ![Room](https://img.shields.io/badge/Room-00796B?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+
 
 ---
 
@@ -72,15 +97,6 @@
 ✅ **TDD Approach Application**  
 🧪 Demonstrating Unit Testing + Best Practices  
 🔗 Repo → https://github.com/shanky367/tdd_approach_application  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanky367&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanky367&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
