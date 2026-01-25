@@ -112,7 +112,7 @@
 
 📌 LinkedIn → https://linkedin.com/in/shankar-lonare  
 📧 Email → shanky367@gmail.com  
-🌐 Portfolio → https://shankar-lonare.github.io  
+🌐 Portfolio → [https://shankar-lonare.github.io  ](https://shanky367.github.io/shankar-lonare.github.io/)
 
 ---
 
