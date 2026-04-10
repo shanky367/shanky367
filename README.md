@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shankar Lonare</h1>
 
 <h3 align="center">
-🚀 Android (Kotlin) | Jetpack Compose | Flutter Developer  
+🚀 Android (Kotlin) | Jetpack Compose | Flutter Developer | KMP/CMP  
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ✨ Mobile Application Developer with **6+ years** of experience in building scalable apps.
 
-🔥 Expert in Android (Kotlin + Jetpack Compose)
+🔥 Expert in Android (Kotlin + Jetpack Compose + KMP/CMM)
 
 🍏 Hands-on experience with iOS Development
 
@@ -30,11 +30,11 @@
 
 ☁️ Firebase Auth, Firestore, Push Notifications
 
-📊 Analytics Tracking + Flipper Debugging
+📊 Analytics Tracking + Flipper Debugging + Chukker
 
 📌 Expertise in CleverTap, MoEngage (User Engagement & Retention)
 
-🚀 Experience with AppsFlyer (Attribution & Marketing Analytics)
+🚀 Experience with AppsFlyer, GTM & Meta Events (Attribution & Marketing Analytics)
 
 🔐 Cloudflare Authentication for secure access control
 
